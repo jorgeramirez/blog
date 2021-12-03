@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About Me
-permalink: https://jramirez.me
+url: https://jramirez.me
 ---
