@@ -30,8 +30,8 @@
       ,"page1": {
           "title": "About Me",
           "content": "",
-          "url": "https://blog.jramirez.me/https:/jramirez.me",
-          "relUrl": "/https:/jramirez.me",
+          "url": "https://blog.jramirez.me/_pages/about.html",
+          "relUrl": "/_pages/about.html",
           "date": ""
       }
       
